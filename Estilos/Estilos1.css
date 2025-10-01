@@ -1,0 +1,59 @@
+h1{
+    font-size: 80px;
+    text-align: center;
+    font-family: cursive ;
+    color: rgb(172, 165, 216);
+}
+h2{
+    font-size: 30px;
+    font-family: cursive;
+}
+h3{
+    font-size: 30px;
+    font-family: cursive;
+}h4{
+    fontsize: 30px;
+    fot-family: cursive;
+}h5{
+    fontsize 60px
+    font-family: cursive;
+    
+}
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #24576e;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+
+.valores {
+  width: 80%;
+  margin: 40px auto;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0px 4px 6px rgba(0,0,0,0.3);
+}
+
+.valores th, .valores td {
+  border: 1px solid #000;
+  padding: 10px;
+  text-align: left;
+}
+
+.valores th {
+  background-color: #eaeaea;
+}
+
+
+footer {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}

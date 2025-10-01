@@ -1,0 +1,142 @@
+h1{
+    font-size: 160px;
+    text-align: center;
+    font-family: cursive ;
+    color: rgb(65, 48, 180);
+}
+h2{
+
+    font-size: 28px;
+    font-family: cursive;
+}
+h4{
+
+    font-size: 28px;
+    font-family: cursive;
+    margin-top: 50px;
+    text-align: center;
+}
+p{
+
+   font-size: 20px;
+   font-family: cursive ; 
+   text-align: justify;
+}
+.resaltado{
+    color: blue;
+}
+.resaltado2{
+    color: red;
+}
+.programacion_1 {
+    text-align: justify;      
+    margin: 30px auto;       
+    max-width: 1000px;       
+}
+
+.programacion_2 {
+    font-size: 24px;
+    font-family: cursive;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.programacion_3 {
+    width: 100%;             
+    max-width: 900px;        
+    height: auto;            
+    border-radius: 12px;     
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
+}
+
+.programacion_1 {
+    text-align: justify;     
+    margin: 30px auto;      
+    max-width: 1000px;     
+}
+
+.programacion_1 {
+    font-size: 24px;
+    font-family: Trebuchet MS, sans-serif;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.programacion_2img {
+    width: 100%;          
+    max-width: 600px;      
+    height: auto;       
+    border-radius: 12px;   
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.programacion_3 {
+    text-align: justify;     
+    margin: 30px auto;      
+    max-width: 1000px;     
+}
+
+.programacion_3 {
+    font-size: 24px;
+    font-family: Trebuchet MS, sans-serif;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.programacion_3img {
+    width: 100%;          
+    max-width: 900px;      
+    height: auto;       
+    border-radius: 12px;   
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    
+}
+
+
+.tecnologias-usadas {
+     list-style-type: square;
+     padding-left: 20px;
+     color: #3ebb3e;
+     font-family: Arial, sans-serif;
+     font-size: 22px;
+     max-width: 300px;
+     background-color: #ecf0f1;
+     border-radius: 8px;
+     padding: 15px;
+        }
+.tecnologias-usadas li {
+     margin-bottom: 10px;
+     cursor: pointer;
+     transition: color 0.3s ease;
+     color: rgb(148, 199, 65);
+ }
+
+ .Mision {
+    font-size: 30px;
+ }
+ .Vision {
+    font-size: 30px;
+ }
+ .Compromiso {
+    font-size: 30px;
+ }
+
+.Tabla {
+  display: flex;
+  justify-content: center; 
+  align-items: center;      
+  min-height: 25vh;        
+  font-size: 60px;
+  padding: 30px;
+  text-align: center;
+}
+ .Dentro {
+    background-color: lightslategray;
+ }
+ .Title {
+    background-color: lightslategray;
+ }
+
+ .Enlace {
+    color: rgb(55, 230, 221);
+ }
